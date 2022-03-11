@@ -1,0 +1,1169 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb">
+
+
+
+<head>
+
+    <script type="text/javascript">
+var siteurl='/';
+var tmplurl='/templates/ja_university/';
+var isRTL = false;
+</script>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Joomla 2.5 template, Joomla education template, template for education, Joomla university template, joomla template for education, Joomla template" />
+  <meta name="description" content="Joomla template for education purpose from JoomlArt - JA University. This template is compatible with the latest version of T3 and supports K2 component." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Testing World  Experienced in making experts</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_acymailing/css/module_default.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jasidenews/asset/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jaslideshowlite/assets/css/animate.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_jaslideshowlite/assets/css/mod_jaslideshowlite-fade.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/addons.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/usertools.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/css3.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jat3/jat3/base-themes/default/css/menu/mega.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/typo.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/layout-mobile.css" type="text/css" media="only screen and (max-width:719px)"  />
+  <link rel="stylesheet" href="/templates/ja_university/css/layout-mobile-port.css" type="text/css" media="only screen and (max-width:479px)"  />
+  <link rel="stylesheet" href="/templates/ja_university/css/layout-tablet.css" type="text/css" media="only screen and (min-width:720px) and (max-width: 985px)"  />
+  <link rel="stylesheet" href="/templates/ja_university/css/layout.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/menu/mega.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/mod_jacontentslider.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/mod_jasidenews.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/css/mod_jaslideshowlite.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/menu/mega.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/mod_jacontentslider.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/mod_jasidenews.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ja_university/themes/blue/css/mod_jaslideshowlite.css" type="text/css" />
+  <script src="/index.php?jat3action=gzip&amp;jat3type=js&amp;jat3file=t3-assets%2Fjs_81315.js" type="text/javascript"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.6&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/index.php?jat3action=gzip&amp;jat3type=js&amp;jat3file=t3-assets%2Fjs_ee9f0.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});;var acymailing = Array();
+				acymailing['NAMECAPTION'] = 'Name';
+				acymailing['NAME_MISSING'] = 'Please enter your name';
+				acymailing['EMAILCAPTION'] = 'E-mail';
+				acymailing['VALID_EMAIL'] = 'Please enter a valid e-mail address';
+				acymailing['ACCEPT_TERMS'] = 'Please check the Terms and Conditions';
+				acymailing['CAPTCHA_MISSING'] = 'Please enter the security code displayed in the image';
+				acymailing['NO_LIST_SELECTED'] = 'Please select the lists you want to subscribe to';
+		function refreshCaptchaModule(){
+		var captchaLink = document.getElementById('captcha_picture_formAcymailing82631').src;myregexp = new RegExp('val-([0-9]+)');
+		valToChange=captchaLink.match(myregexp)[1];
+		document.getElementById('captcha_picture_formAcymailing82631').src = captchaLink.replace(valToChange,valToChange+'0');
+	}
+  </script>
+
+<!--[if ie]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie]><link href="/templates/ja_university/css/template-ie.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/plugins/system/jat3/jat3/base-themes/default/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+<!--[if ie 7]><link href="/templates/ja_university/css/template-ie7.css" type="text/css" rel="stylesheet" /><![endif]--> 
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=3.0, user-scalable=yes"/>
+<meta name="HandheldFriendly" content="true" />
+
+
+
+<link href="/plugins/system/jat3/jat3/base-themes/default/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+
+    
+
+
+    <style type="text/css">
+/*dynamic css*/
+
+    body.bd .main {width: 980px;}
+    body.bd #ja-wrapper {min-width: 980px;}
+</style>
+</head>
+
+
+
+<body id="bd" class="bd fs4 com_content">
+
+<div style="position:absolute;top:0;left:-9999px;">
+
+<a href="http://joomla4ever.ru/joomlart/1901-ja-university.html" title="JA University - шаблон joomla" target="_blank">JA University - шаблон joomla</a>
+
+<a href="http://nofollow.biz/" title="Продвижение" target="_blank">Продвижение</a>
+
+</div>
+
+<a name="Top" id="Top"></a>
+
+<div id="ja-wrapper">
+
+
+
+
+
+                <div id="ja-header"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<!-- jQuery library 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>-->
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<h1 class="logo">
+    <a href="https://www.thetestingworld.com/" title="Testing World "><span>Testing World </span></a>
+</h1>
+
+<div id="ja-search">
+    
+<ul class="menu">
+<li class="item-587"><a href="/index.php?option=com_users&amp;view=login&amp;Itemid=587" >Login</a></li><li class="item-588"><a href="/index.php?option=com_users&amp;view=registration&amp;Itemid=588" >Registration </a></li><li class="item-657"><a href="/index.php?option=com_formmaker&amp;view=formmaker&amp;id=2&amp;Itemid=657" >Quick Demo</a></li></ul>
+
+</div>                </div>
+                            </div>
+                        </div>
+            <div id="ja-mainnav"
+            	class="wrap ">
+                   <div class="main">
+                           <div class="main-inner1 clearfix">
+                
+<div class="ja-megamenu clearfix" id="ja-megamenu">
+<ul class="megamenu level0"><li  class="mega first active"><a href="https://www.thetestingworld.com/"  class="mega first active" id="menu435" title="Home"><span class="menu-title">Home</span></a></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=494"  class="mega haschild" id="menu494" title="ABOUT US"><span class="menu-title">ABOUT US</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=181&amp;Itemid=590"  class="mega first" id="menu590" title="Mission &amp; Vision"><span class="menu-title">Mission &amp; Vision</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu531" title="TRAINING"><span class="menu-title">TRAINING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=106&amp;Itemid=495"  class="mega first haschild" id="menu495" title="CAMPUS TRAINING"><span class="menu-title">CAMPUS TRAINING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 320px;"><div class="megacol column1 first" style="width: 320px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=176&amp;Itemid=500"  class="mega first" id="menu500" title="Selenium with Java &amp; Python"><span class="menu-title">Selenium with Java &amp; Python</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=177&amp;Itemid=501"  class="mega" id="menu501" title="Performance Testing using JMeter"><span class="menu-title">Performance Testing using JMeter</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=178&amp;Itemid=502"  class="mega" id="menu502" title="API Automation using SOAPUI"><span class="menu-title">API Automation using SOAPUI</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=179&amp;Itemid=503"  class="mega" id="menu503" title="Mobile Automation using APPIUM"><span class="menu-title">Mobile Automation using APPIUM</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=263&amp;Itemid=553"  class="mega" id="menu553" title="Manual Testing, SQL &amp; Unix"><span class="menu-title">Manual Testing, SQL &amp; Unix</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=264&amp;Itemid=684"  class="mega" id="menu684" title="Performance Testing using LoadRunner"><span class="menu-title">Performance Testing using LoadRunner</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=265&amp;Itemid=685"  class="mega" id="menu685" title="Automation Package"><span class="menu-title">Automation Package</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=266&amp;Itemid=686"  class="mega" id="menu686" title="API Testing Package"><span class="menu-title">API Testing Package</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=267&amp;Itemid=687"  class="mega last" id="menu687" title="Big Data Testing"><span class="menu-title">Big Data Testing</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=142&amp;Itemid=532"  class="mega haschild" id="menu532" title="CORPORATE TRAINING"><span class="menu-title">CORPORATE TRAINING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 320px;"><div class="megacol column1 first" style="width: 320px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=176&amp;Itemid=533"  class="mega first" id="menu533" title="Selenium with Java &amp; Python"><span class="menu-title">Selenium with Java &amp; Python</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=177&amp;Itemid=534"  class="mega" id="menu534" title="Performance Testing using JMeter"><span class="menu-title">Performance Testing using JMeter</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=178&amp;Itemid=535"  class="mega" id="menu535" title="API Automation using SOAPUI"><span class="menu-title">API Automation using SOAPUI</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=179&amp;Itemid=536"  class="mega" id="menu536" title="Mobile Automation using APPIUM"><span class="menu-title">Mobile Automation using APPIUM</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=263&amp;Itemid=589"  class="mega" id="menu589" title="Manual Testing, SQL &amp; Unix"><span class="menu-title">Manual Testing, SQL &amp; Unix</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=264&amp;Itemid=688"  class="mega" id="menu688" title="Performance Testing using LoadRunner"><span class="menu-title">Performance Testing using LoadRunner</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=265&amp;Itemid=689"  class="mega" id="menu689" title="Automation Package"><span class="menu-title">Automation Package</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=266&amp;Itemid=690"  class="mega" id="menu690" title="API/WebService Testing Package"><span class="menu-title">API/WebService Testing Package</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=267&amp;Itemid=691"  class="mega last" id="menu691" title="Big Data Testing"><span class="menu-title">Big Data Testing</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=149&amp;Itemid=580"  class="mega haschild" id="menu580" title="ONLINE TRAINING"><span class="menu-title">ONLINE TRAINING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 280px;"><div class="megacol column1 first" style="width: 280px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=176&amp;Itemid=581"  class="mega first" id="menu581" title="Selenium with Java &amp; Python"><span class="menu-title">Selenium with Java &amp; Python</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=177&amp;Itemid=623"  class="mega" id="menu623" title="Performance Testing using JMeter"><span class="menu-title">Performance Testing using JMeter</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=178&amp;Itemid=624"  class="mega" id="menu624" title="API Automation using SOAPUI"><span class="menu-title">API Automation using SOAPUI</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=179&amp;Itemid=625"  class="mega" id="menu625" title="Mobile Automation using APPIUM"><span class="menu-title">Mobile Automation using APPIUM</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=263&amp;Itemid=626"  class="mega" id="menu626" title="Manual Testing, SQL &amp; Unix"><span class="menu-title">Manual Testing, SQL &amp; Unix</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=264&amp;Itemid=627"  class="mega" id="menu627" title="Performance Testing using LoadRunner"><span class="menu-title">Performance Testing using LoadRunner</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=265&amp;Itemid=692"  class="mega" id="menu692" title="Automation Package"><span class="menu-title">Automation Package</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=267&amp;Itemid=694"  class="mega" id="menu694" title="Big Data Testing"><span class="menu-title">Big Data Testing</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=266&amp;Itemid=693"  class="mega last" id="menu693" title="API Testing Package"><span class="menu-title">API Testing Package</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=244&amp;Itemid=665"  class="mega haschild" id="menu665" title="SUMMER TRAINING"><span class="menu-title">SUMMER TRAINING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=246&amp;Itemid=667"  class="mega first" id="menu667" title="6 Weeks Summer Training"><span class="menu-title">6 Weeks Summer Training</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=248&amp;Itemid=669"  class="mega last" id="menu669" title="6 Months Training"><span class="menu-title">6 Months Training</span></a></li></ul></div></div>
+</div></div></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=245&amp;Itemid=666"  class="mega last" id="menu666" title="PROJECT SUPPORT"><span class="menu-title">PROJECT SUPPORT</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu499" title="VIDEOS "><span class="menu-title">VIDEOS </span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=283&amp;Itemid=630"  class="mega first" id="menu630" title="Free Videos"><span class="menu-title">Free Videos</span></a></li><li  class="mega last"><a href="https://testingvideocourses.com/" target="_blank"  class="mega last" id="menu662" title="Complete Video Courses"><span class="menu-title">Complete Video Courses</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=144&amp;Itemid=516"  class="mega haschild" id="menu516" title="TUTORIAL "><span class="menu-title">TUTORIAL </span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 250px;"><div class="megacol column1 first" style="width: 250px;"><ul class="megamenu level1"><li  class="mega first haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=162&amp;Itemid=538"  class="mega first haschild" id="menu538" title="FUNCTIONAL AUTOMATION"><span class="menu-title">FUNCTIONAL AUTOMATION</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=157&amp;Itemid=549"  class="mega first" id="menu549" title="Selenium with Java"><span class="menu-title">Selenium with Java</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=242&amp;Itemid=550"  class="mega" id="menu550" title="QTP/UFT Automation"><span class="menu-title">QTP/UFT Automation</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=257&amp;Itemid=551"  class="mega last" id="menu551" title="Protractor-JavaScript Automation"><span class="menu-title">Protractor-JavaScript Automation</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=163&amp;Itemid=539"  class="mega haschild" id="menu539" title="PERFORMANCE AUTOMATION"><span class="menu-title">PERFORMANCE AUTOMATION</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 250px;"><div class="megacol column1 first" style="width: 250px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=258&amp;Itemid=673"  class="mega first" id="menu673" title="Performance Testing using JMeter"><span class="menu-title">Performance Testing using JMeter</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=259&amp;Itemid=674"  class="mega last" id="menu674" title="Performance Testing using LoadRunner"><span class="menu-title">Performance Testing using LoadRunner</span></a></li></ul></div></div>
+</div></div></li><li  class="mega last haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=160&amp;Itemid=540"  class="mega last haschild" id="menu540" title="MANUAL TESTING"><span class="menu-title">MANUAL TESTING</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level2"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=260&amp;Itemid=675"  class="mega first" id="menu675" title="Big Data Testing"><span class="menu-title">Big Data Testing</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=261&amp;Itemid=676"  class="mega" id="menu676" title="Database Testing(SQL)"><span class="menu-title">Database Testing(SQL)</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=262&amp;Itemid=677"  class="mega last" id="menu677" title="Unix/Linux for Testers"><span class="menu-title">Unix/Linux for Testers</span></a></li></ul></div></div>
+</div></div></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="/index.php?option=com_content&amp;view=article&amp;id=145&amp;Itemid=576"  class="mega haschild" id="menu576" title="TESTING QUIZ"><span class="menu-title">TESTING QUIZ</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 200px;"><div class="megacol column1 first" style="width: 200px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=231&amp;Itemid=628"  class="mega first" id="menu628" title="Selenium Automation Quiz"><span class="menu-title">Selenium Automation Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=232&amp;Itemid=629"  class="mega" id="menu629" title="SoapUI Automation Quiz"><span class="menu-title">SoapUI Automation Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=253&amp;Itemid=678"  class="mega" id="menu678" title="Manual Testing Quiz"><span class="menu-title">Manual Testing Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=252&amp;Itemid=679"  class="mega" id="menu679" title="Agile Quiz"><span class="menu-title">Agile Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=249&amp;Itemid=680"  class="mega" id="menu680" title="JMeter Quiz"><span class="menu-title">JMeter Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=249&amp;Itemid=681"  class="mega" id="menu681" title="Appium Quiz"><span class="menu-title">Appium Quiz</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=251&amp;Itemid=682"  class="mega" id="menu682" title="Database Testing(SQL) Quiz"><span class="menu-title">Database Testing(SQL) Quiz</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=254&amp;Itemid=683"  class="mega last" id="menu683" title="Unix for Software Testers"><span class="menu-title">Unix for Software Testers</span></a></li></ul></div></div>
+</div></div></li><li  class="mega haschild"><a href="#"  class="mega haschild" id="menu577" title="CERTIFICATIONS"><span class="menu-title">CERTIFICATIONS</span></a><div class="childcontent cols1 ">
+<div class="childcontent-inner-wrap">
+<div class="childcontent-inner clearfix" style="width: 230px;"><div class="megacol column1 first" style="width: 230px;"><ul class="megamenu level1"><li  class="mega first"><a href="/index.php?option=com_content&amp;view=article&amp;id=148&amp;Itemid=578"  class="mega first" id="menu578" title="Agile Certification"><span class="menu-title">Agile Certification</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=147&amp;Itemid=579"  class="mega" id="menu579" title="ISTQB Certification"><span class="menu-title">ISTQB Certification</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=238&amp;Itemid=660"  class="mega" id="menu660" title="SoapUI Certification"><span class="menu-title">SoapUI Certification</span></a></li><li  class="mega"><a href="/index.php?option=com_content&amp;view=article&amp;id=256&amp;Itemid=671"  class="mega" id="menu671" title="QTP/UFT Certification"><span class="menu-title">QTP/UFT Certification</span></a></li><li  class="mega last"><a href="/index.php?option=com_content&amp;view=article&amp;id=255&amp;Itemid=672"  class="mega last" id="menu672" title="LoadRunner Certification"><span class="menu-title">LoadRunner Certification</span></a></li></ul></div></div>
+</div></div></li><li  class="mega"><a href="/index.php?option=com_k2&amp;view=itemlist&amp;layout=category&amp;task=category&amp;id=1&amp;Itemid=496"  class="mega" id="menu496" title="Our blog"><span class="menu-title">Our blog</span></a></li><li  class="mega last"><a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=498"  class="mega last" id="menu498" title="Contact Us"><span class="menu-title">Contact Us</span></a></li></ul>
+</div>            <script type="text/javascript">
+                var megamenu = new jaMegaMenuMoo ('ja-megamenu', {
+                    'bgopacity': 0,
+                    'delayHide': 300,
+                    'slide'    : 0,
+                    'fading'   : 1,
+                    'direction': 'down',
+                    'action'   : 'mouseover',
+                    'tips'     : false,
+                    'duration' : 300,
+                    'hidestyle': 'fastwhenshow'
+                });
+            </script>
+            <!-- jdoc:include type="menu" level="0" / -->
+
+                </div>
+                            </div>
+                        </div>
+            
+
+
+
+<ul class="no-display">
+    <li><a href="#ja-content" title="Skip to content">Skip to content</a></li>
+</ul>            <div id="ja-slideshow"
+            	class="wrap ">
+                   <div class="main clearfix">
+           
+<div id="ja-ss-103" class="ja-ss ja-ss-wrap fade"  style="visibility: hidden">
+	<div class="ja-ss-items">
+			<div class="ja-ss-item">
+			<img src="/images/resized/images/sampledata/slideshow/sl-1_960_400.jpg" alt="Selenium Training BY Industry ExpertsAdvanced Selenium Training Programs Start on Testing World Location Gurugram/Noida "/>
+						<div class="ja-ss-desc"><h3>Selenium Training BY Industry Experts</h3><p>Advanced Selenium Training Programs Start on Testing World Location Gurugram/Noida <a href="#" title="Selenium Training Programs"></a></p></div>
+						<div class="ja-ss-mask mask-left">&nbsp;</div>
+			<div class="ja-ss-mask mask-right">&nbsp;</div>
+		</div>
+			<div class="ja-ss-item">
+			<img src="/images/resized/images/sampledata/slideshow/sl-2_960_400.jpg" alt="JMeter Training By Industry ConsultantAdvanced JMeter Performance Testing Training Programs Start on Testing World Location Gurugram/Noida."/>
+						<div class="ja-ss-desc"><h3>JMeter Training By Industry Consultant</h3><p>Advanced JMeter Performance Testing Training Programs Start on Testing World Location Gurugram/Noida.</p></div>
+						<div class="ja-ss-mask mask-left">&nbsp;</div>
+			<div class="ja-ss-mask mask-right">&nbsp;</div>
+		</div>
+			<div class="ja-ss-item">
+			<img src="/images/resized/images/sampledata/slideshow/sl-3_960_400.jpg" alt=" API Automation Testing Package-SoapUI,Postman,Rest AssuredSoap/Rest API Testing With SoapUI  Start on Testng World with Live Project Location Gurugram/Noida."/>
+						<div class="ja-ss-desc"><h3> API Automation Testing Package-SoapUI,Postman,Rest Assured</h3><p>Soap/Rest API Testing With SoapUI  Start on Testng World with Live Project Location Gurugram/Noida.</p></div>
+						<div class="ja-ss-mask mask-left">&nbsp;</div>
+			<div class="ja-ss-mask mask-right">&nbsp;</div>
+		</div>
+			<div class="ja-ss-item">
+			<img src="/images/resized/images/sampledata/slideshow/sl-4_960_400.jpg" alt="Appium Mobile app automationWe Start Appium Mobile app automation Testing With Advanced Technology Start on T World with Live Project Location Gurugram/Noida
+
+"/>
+						<div class="ja-ss-desc"><h3>Appium Mobile app automation</h3><p>We Start Appium Mobile app automation Testing With Advanced Technology Start on T World with Live Project Location Gurugram/Noida</p>
+
+</div>
+						<div class="ja-ss-mask mask-left">&nbsp;</div>
+			<div class="ja-ss-mask mask-right">&nbsp;</div>
+		</div>
+		</div>
+	
+			<div class="ja-ss-btns clearfix">
+		<span class="ja-ss-prev">&laquo; Previous</span>
+		<span class="ja-ss-next">Next  &raquo;</span>
+	</div>
+	</div><script type="text/javascript">
+	window.addEvent('domready', function(){
+		window.jassliteInst = window.jassliteInst || [];
+		window.jassliteInst.push(new JASliderCSS('ja-ss-103', {
+			interval: 5000,
+			duration: 1000,
+			
+			repeat: true,
+			autoplay: 0,
+			
+			navigation: 1,
+			thumbnail: 0,
+			
+			urls:['#','#','#','#'],
+			targets:['','','','']
+		}));
+	});
+</script>
+<!-- Fix animation in IE -->
+<!--[if IE]>
+	<script type="text/javascript">
+		jassurl = '/modules/mod_jaslideshowlite/assets/'; 
+	</script>
+	<script type="text/javascript" src="/modules/mod_jaslideshowlite/assets/js/iefix.js"></script>
+<![endif]-->
+
+            </div>
+                        </div>
+                        <div id="ja-topsl1"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod109">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="department-list">
+<ul class="department-list">
+<li class="icon-1"><a href="index.php?option=com_content&amp;view=article&amp;id=142&amp;Itemid=532" title="CorporateTraining">CorporateTraining</a><span class="department-name">Corporate Training</span></li>
+<li class="icon-2"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=106" target="_self" title="Campus Training">Campus Training</a> <span class="department-name">Campus Training</span></li>
+<li class="icon-3"><a href="index.php?option=com_content&amp;view=article&amp;id=149&amp;Itemid=580" title="Online Training">Online Training</a> <span class="department-name">Online Training</span></li>
+<li class="icon-4"><a href="index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=544" title="College Training">College Training</a> <span class="department-name">College Training</span></li>
+<li class="icon-5"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=97" target="_self" title="Video Training">Video Training</a> <span class="department-name">Video Training</span></li>
+<li class="icon-6"><a href="index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=546" title="Projects Support">Projects Support</a> <span class="department-name"><span style="color: #333333; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.2956px; font-style: normal; font-weight: bold; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;">Mock Papers</span></span></li>
+<li class="icon-7"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=245" target="_self" title="Project Support">Mock Test Training</a> <span class="department-name"><span class="department-name">Project Support</span></span></li>
+<li class="icon-8"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=208" target="_self" title="Training Assessments">Training Assessments</a> <span class="department-name">&nbsp;Assessments</span></li>
+</ul>
+</div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod188">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div style="position: relative; top: 41px;width: 100%;"><span style="font-size: 15pt;"><strong>OUR BEST COURSES</strong></span></div></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl1 .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-topsl2"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod97">
+						<h3><span>PERFORMANCE TESTING JMETER</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/J METER.jpg" alt="" /><br />
+<p>JMeter is an open source performance and load testing tool.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=87" target="_parent" title="Performanse Testing">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod181">
+						<h3><span>SELENIUM WITH PYTHON</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/PAYTHON.jpg" alt="" /><br />
+<p>Selenium with Python is use test data generation learn function with us.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=176" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod98">
+						<h3><span>SELENIUM AUTOMATION</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/SELENIUM.jpg" alt="" /><br />
+<p>This course includes Selenium Web Driver Basics and Advanced.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=157" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod182">
+						<h3><span>MANUAL TESTING SQL/UNIX</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/UNIX SHEEL.jpg" alt="" /><br />
+<p><span style="color: #222222; font-family: arial, sans-serif; font-size: 12.8px; font-style: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; background-color: #ffffff; float: none;">Manual Testing, SQL, Unix&nbsp;</span> start with Latest technology with Testing World.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=326" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod99">
+						<h3><span>WEBSERVICE TESTING SOAP-UI</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/web services.jpg" alt="" /><br />
+<p>On course completion, you will be an Expert in SOAP &amp; REST API Testing.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=164" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod183">
+						<h3><span>PERFORMANCE TESTING - LR</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/lp.png" alt="" /><br />
+<p>Load Runner testing Tranining start with latest Tool on Testing World.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=259" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod100">
+						<h3><span>Big Data Testing</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/parks/animals/big data.jpg" alt="" /><br />
+<p>The first step of big data testing, also referred as pre-Hadoop&nbsp;</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=84" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod184">
+						<h3><span>APPIUM MOBILE AUTOMATION</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div class="inner-div"><img src="images/sampledata/fruitshop/appium.jpg" alt="" /><br />
+<p>Appium Mobile Application Tranining start with latest Tool Join Us.</p>
+<p class="readmore"><a href="index.php?option=com_content&amp;view=article&amp;layout=edit&amp;id=243" target="_self" title="Read more">Read more</a></p>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-topsl2 .ja-box') });
+</script>            </div>
+                        </div>
+            
+
+
+    <!-- MAIN CONTAINER -->
+
+    <div id="ja-container" class="wrap ja-r2">
+
+               <div class="main clearfix">
+           
+        <div id="ja-mainbody" style="width:50%">
+
+            <!-- CONTENT -->
+
+            <div id="ja-main" style="width:100%">
+
+            <div class="inner clearfix">
+
+
+
+                
+<div id="system-message-container">
+</div>
+
+
+                
+                <div id="ja-content-mass-top" class="ja-mass ja-mass-top clearfix">
+
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod87">
+						<h3><span>UPCOMING BATCHES</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="ja-sidenews-list clearfix">
+			<div class="ja-slidenews-item">
+
+		    		  	<img src="/images/resized/images/sampledata/parks/animals/Soap Ui_140_100.jpg"  align="left"  alt="Start new API Testing Batch Soap UI & Rest API Time 1:30  " title="Start new API Testing Batch Soap UI & Rest API Time 1:30  " />		  
+			<a class="ja-title" href="/index.php?option=com_content&amp;view=article&amp;id=103:proponents-say-everyday-math-adds-up-though-some-don-t-understand-how&amp;catid=79:news-and-events&amp;Itemid=670">Start new API Testing Batch Soap UI & Rest API Time 1:30  </a>
+
+		  			
+		  	
+			
+Start new API Testing Batch Soap UI &amp; Rest API Time 1:30&nbsp; Date 24 Feb...		  		  
+		  
+		</div>
+  		<div class="ja-slidenews-item">
+
+		    		  	<img src="/images/resized/images/sampledata/parks/animals/Advance-Jmeter-300x200_140_100.jpg"  align="left"  alt="Start new Performance Testing Batch Using J-Meter Tool Time 12:00" title="Start new Performance Testing Batch Using J-Meter Tool Time 12:00" />		  
+			<a class="ja-title" href="/index.php?option=com_content&amp;view=article&amp;id=102:start-new-performance-testing-batch-using-j-meter-tool-time-12-00&amp;catid=79:news-and-events&amp;Itemid=670">Start new Performance Testing Batch Using J-Meter Tool Time 12:00</a>
+
+		  			
+		  	
+			
+Start new Performance Testing Batch Using J-Meter Tool Time 12:00 date 24 Feb 2018&nbsp;...		  		  
+		  
+		</div>
+  		<div class="ja-slidenews-item">
+
+		    		  	<img src="/images/resized/images/sampledata/parks/animals/selenium_140_100.jpg"  align="left"  alt="Start New Selenium Automation Testing Batch With Java Time 12:00 Date 31 Mar" title="Start New Selenium Automation Testing Batch With Java Time 12:00 Date 31 Mar" />		  
+			<a class="ja-title" href="/index.php?option=com_content&amp;view=article&amp;id=101:start-new-selenium-automation-testing-batch-using-java-python-time-12-00&amp;catid=79:news-and-events&amp;Itemid=670">Start New Selenium Automation Testing Batch With Java Time 12:00 Date 31 Mar</a>
+
+		  			
+		  	
+			
+Start New Selenium Automation Testing Batch Using Java &amp; Python Time 12:00...		  		  
+		  
+		</div>
+  </div>		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod187">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p><a href="index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=79&amp;Itemid=670" class="button subbutton btn btn-primary" style="float: right; position: absolute; top: -11px; right: 30px;">View More</a></p></div>
+		</div>
+    </div>
+	
+                </div>
+
+                
+
+
+                <div id="ja-contentwrap" class="clearfix ">
+
+                    <div id="ja-content" class="column" style="width:100%">
+
+                        <div id="ja-current-content" class="column" style="width:100%">
+
+                            
+
+
+                            
+
+
+                            
+                        </div>
+
+
+
+                        
+                    </div>
+
+
+
+                    
+
+
+                </div>
+
+
+
+                
+            </div>
+
+            </div>
+
+            <!-- //CONTENT -->
+
+            
+
+
+        </div>
+
+        
+        <!-- RIGHT COLUMN-->
+
+        <div id="ja-right" class="column sidebar" style="width:50%">
+
+
+
+            
+
+
+            
+            <div class="ja-colswrap clearfix ja-r2">
+
+                
+                <div id="ja-right1" class="ja-col ja-right1 column" style="width:50%">
+
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod88">
+						<h3><span>Testing World Trainers</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<ul class="professor-list">
+<li><strong><img src="images/sampledata/parks/Trainer.png" alt="" />Abhishek</strong> <span>JMeter &amp; LR&nbsp;</span></li>
+<li><strong><img src="images/sampledata/parks/Trainer.png" alt="" />Deepak</strong> <span>Selenium, SoapUI</span></li>
+<li><strong><img src="images/sampledata/parks/Trainer.png" alt="" />Nitin&nbsp;</strong> <span>Selenium,SoapUI</span></li>
+</ul></div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod141">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<a href="index.php?option=com_content&view=category&layout=blog&id=86&Itemid=535" title="Sample banner"><img src="images/sampledata/ja_university/banner4.jpg" alt="Sample banner" title="Sample banner" /></a></div>
+		</div>
+    </div>
+	
+                </div>
+
+                
+
+
+                
+                <div id="ja-right2" class="ja-col ja-right2 column" style="width:50%">
+
+                    	<div class="ja-moduletable moduletable  clearfix" id="Mod105">
+						<h3><span>OUR RUNNING BATCHES</span></h3>
+				<div class="ja-box-ct clearfix">
+		<ul class="mostread">
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=87:performance-testing&amp;catid=81:all-course&amp;Itemid=476">
+			Performance Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=84:big-data-testing&amp;catid=81:all-course">
+			Big Data Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=89:unix-shell-scripting-testing&amp;catid=81:all-course">
+			Unix & Shell Scripting Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=83:data-base-etl-testing&amp;catid=81:all-course">
+			Data Base & ETL Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=82:manual-sql-unix-testing&amp;catid=81:all-course">
+			 Manual SQL & Unix Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=85:mobile-automation-testing&amp;catid=81:all-course">
+			Mobile Automation Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=88:qtp-uft-testing&amp;catid=81:all-course">
+			QTP/UFT Testing</a>
+	</li>
+	<li>
+		<a href="/index.php?option=com_content&amp;view=article&amp;id=90:performance-testing-loadrunner&amp;catid=81:all-course">
+			Performance Testing Loadrunner</a>
+	</li>
+</ul>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod170">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p><a href="index.php?option=com_content&amp;view=article&amp;id=234&amp;Itemid=658"><img src="images/galeerys.png" alt="" style="position: relative; top: 10px;" border="0" /></a></p></div>
+		</div>
+    </div>
+	
+                </div>
+
+                
+            </div>
+
+            
+            
+        </div>
+
+        <!-- //RIGHT COLUMN-->
+
+        
+                </div>
+            
+    </div>
+
+    
+    <!-- //MAIN CONTAINER -->
+
+
+
+                <div id="ja-botsl"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-full" style="width: 100%;">
+    	<div class="ja-moduletable moduletable no-margin  clearfix" id="Mod102">
+						<h3><span>PLEASED STUDENTS</span></h3>
+				<div class="ja-box-ct clearfix">
+		<script type="text/javascript">
+	//<!--[CDATA[
+	function contentSliderInit_102 (cid) {
+		cid = parseInt(cid);
+		var containerID = 'ja-contentslider-102';
+		var container =  $(containerID);
+
+		container.getElements('.jsslide').each(function(el){
+			el.dispose();
+		});
+
+		if(cid == 0) {
+			var elems = $('ja-contentslider-center-102').getElements('div[class*=content_element]');
+		}else{
+			var elems = $('ja-contentslider-center-102').getElements('div[class*=jaslide2_'+cid+']');
+		}
+		var total = elems.length;
+
+		var options={
+			w: 163,
+			h: 170,
+			num_elem: 6,
+			mode: 'horizontal', //horizontal or vertical
+			direction: 'left', //horizontal: left or right; vertical: up or down
+			total: total,
+			url: 'https://www.thetestingworld.com/modules/mod_jacontentslider/mod_jacontentslider.php',
+			wrapper:  container.getElement("div.ja-contentslider-center"),
+			duration: 1000,
+			interval: 5000,
+			modid: 102,
+			running: false,
+			auto: 0		};
+
+		var jscontentslider = new JS_ContentSlider( options );
+
+		for(i=0;i<elems.length;i++){
+			jscontentslider.update (elems[i].innerHTML, i);
+		}
+		jscontentslider.setPos(null);
+		if(jscontentslider.options.auto){
+			jscontentslider.nextRun();
+		}
+
+				  						container.getElement(".ja-contentslide-left-img").onclick = function(){setDirection2102('right', jscontentslider);};
+			container.getElement(".ja-contentslide-right-img").onclick = function(){setDirection2102('left', jscontentslider);};
+					  		
+		/**active tab**/
+		container.getElement('.ja-button-control').getElements('a').each(function(el){
+			var css = (el.getProperty('rel') == cid) ? 'active' : '';
+			el.className = css;
+		});
+	}
+	window.addEvent( 'domready', function(){ contentSliderInit_102(0); } );
+
+	function setDirection102(direction,ret, jscontentslider) {
+		jscontentslider.options.direction = direction;
+		
+		if(ret){
+		    jscontentslider.clearTimeOut();
+			jscontentslider.options.auto = 0;
+			jscontentslider.options.interval = 5000;
+			jscontentslider.options.direction = 'left';
+		}
+		else{
+			jscontentslider.options.auto = 1;
+			jscontentslider.options.interval = 100;
+			jscontentslider.nextRun();
+			jscontentslider.options.interval = 5000;
+		}
+	}
+	
+	function setDirection2102(direction, jscontentslider) {
+		var oldDirection = jscontentslider.options.direction;
+		
+		jscontentslider.options.direction = direction;
+		
+		jscontentslider.options.interval = 100;
+		jscontentslider.options.auto = 1;
+		jscontentslider.nextRun();
+		jscontentslider.options.auto = 0;
+		jscontentslider.options.interval = 5000;
+		
+		setTimeout(function(){
+			jscontentslider.options.direction = oldDirection;
+		}, 510);
+	}
+	//]]-->
+</script>
+
+<div id="ja-contentslider-102" class="ja-contentslider no-margin clearfix" >
+  <!--toolbar-->
+  <div class="ja-button-control">
+             					<div class="ja-contentslider-right ja-contentslide-right-img" title="Next">&nbsp;</div>
+			<div class="ja-contentslider-left ja-contentslide-left-img" title="Previous">&nbsp;</div>
+		        
+  </div>
+
+  <!--items-->
+  <div class="ja-contentslider-center-wrap clearfix">
+    <div id="ja-contentslider-center-102" class="ja-contentslider-center">
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=113:tushar-mishra&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Tushar Mishra" title="Tushar Mishra" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=113:tushar-mishra&amp;catid=80:students-highlight" title="">Tushar Mishra</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=114:rahul-singh&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Rahul Singh" title="Rahul Singh" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=114:rahul-singh&amp;catid=80:students-highlight" title="">Rahul Singh</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=112:sneha-banerjee&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Girl_130_130.png"  alt="Sneha Banerjee" title="Sneha Banerjee" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=112:sneha-banerjee&amp;catid=80:students-highlight" title="">Sneha Banerjee</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=81:ankit-bansal&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Ankit Bansal" title="Ankit Bansal" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=81:ankit-bansal&amp;catid=80:students-highlight" title="">Ankit Bansal</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=80:sumit-chawla&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Sumit Chawla" title="Sumit Chawla" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=80:sumit-chawla&amp;catid=80:students-highlight" title="">Sumit Chawla</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=79:anupam-sharma&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Girl_130_130.png"  alt="Anupam Sharma" title="Anupam Sharma" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=79:anupam-sharma&amp;catid=80:students-highlight" title="">Anupam Sharma</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=78:ashna-mehta&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Girl_130_130.png"  alt="Ashna mehta" title="Ashna mehta" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=78:ashna-mehta&amp;catid=80:students-highlight" title="">Ashna mehta</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=77:arpit-choudhary&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Arpit choudhary" title="Arpit choudhary" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=77:arpit-choudhary&amp;catid=80:students-highlight" title="">Arpit choudhary</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=76:tanu-pal&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Girl_130_130.png"  alt="Tanu pal" title="Tanu pal" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=76:tanu-pal&amp;catid=80:students-highlight" title="">Tanu pal</a>        </div>
+        
+                
+                
+              </div>
+            <div class="content_element jaslide2_80" style="display:none;">
+      
+                <div class="ja_slideimages tooltips clearfix">
+          <div class="ja_slideimages_inner">
+            <div class="content">
+              <a href="/index.php?option=com_content&amp;view=article&amp;id=75:ruchin-khare&amp;catid=80:students-highlight" title="" class="ja-image"><img src="/images/resized/images/courses/Boy_130_130.jpg"  alt="Ruchin khare" title="Ruchin khare" width="130" height="130"  /></a>            </div>
+          </div>
+        </div>
+                
+                <div class="ja_slidetitle">
+          <a href="/index.php?option=com_content&amp;view=article&amp;id=75:ruchin-khare&amp;catid=80:students-highlight" title="">Ruchin khare</a>        </div>
+        
+                
+                
+              </div>
+          </div>
+  </div>
+</div>
+		</div>
+    </div>
+		<div class="ja-moduletable moduletable  clearfix" id="Mod173">
+						<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div style="margin-top: 22px; border-top: 1px solid #ddd; padding: 10px;">
+<h3 style="text-align: left; width: 50%; float: left;">POPULAR VIDEO COURSES</h3>
+<h3 style="text-align: right; width: 50%; float: left;"><a href="index.php/videos" class="button subbutton btn btn-primary">View All Video</a></h3>
+<div style="text-align: left; width: 48%; float: left;">
+<div style="position: relative; height: 0; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/_DwKQYWfugU?ecver=2" width="640" height="360" style="position: absolute; width: 100%; height: 100%; left: 0;" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+<div style="text-align: left; width: 48%; margin-left: 4%; float: left;">
+<div style="position: relative; height: 0; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/qDb7v9MrQ38?ecver=2" width="640" height="360" style="position: absolute; width: 100%; height: 100%; left: 0;" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+</div>
+</div></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-botsl1"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 33.3%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod108">
+						<h3><span>Newsletter</span></h3>
+				<div class="ja-box-ct clearfix">
+		<div class="acymailing_module" id="acymailing_module_formAcymailing82631">
+	<div class="acymailing_fulldiv" id="acymailing_fulldiv_formAcymailing82631"  >
+		<form id="formAcymailing82631" action="/index.php" onsubmit="return submitacymailingform('optin','formAcymailing82631')" method="post" name="formAcymailing82631"  >
+		<div class="acymailing_module_form" >
+			<div class="acymailing_introtext">Make sure you dont miss interesting happenings by joining our newsletter program.</div>						<div class="acymailing_form">
+					<p class="onefield fieldacyemail" id="field_email_formAcymailing82631">								<span class="acyfield_email"><input id="user_email_formAcymailing82631"  onfocus="if(this.value == 'E-mail') this.value = '';" onblur="if(this.value=='') this.value='E-mail';" class="inputbox" type="text" name="user[email]" style="width:180px" value="E-mail" /></span>
+							</p>
+					<p class="acysubbuttons">
+												<input class="button subbutton btn btn-primary" type="submit" value="Subscribe" name="Submit" onclick="try{ return submitacymailingform('optin','formAcymailing82631'); }catch(err){alert('The form could not be submitted '+err);return false;}"/>
+											</p>
+				</div>
+						<input type="hidden" name="ajax" value="0"/>
+			<input type="hidden" name="ctrl" value="sub"/>
+			<input type="hidden" name="task" value="notask"/>
+			<input type="hidden" name="redirect" value="https%3A%2F%2Fwww.thetestingworld.com%2F"/>
+			<input type="hidden" name="redirectunsub" value="https%3A%2F%2Fwww.thetestingworld.com%2F"/>
+			<input type="hidden" name="option" value="com_acymailing"/>
+						<input type="hidden" name="hiddenlists" value="1"/>
+			<input type="hidden" name="acyformname" value="formAcymailing82631" />
+									</div>
+		</form>
+	</div>
+	</div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 33.3%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod92">
+						<h3><span>Contact us</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<p><span style="color: 6991b7; font-family: Arial, Helvetica, sans-serif; font-size: 12.16px;">Testing World India,</span><span style="color: 6991b7; font-family: Arial, Helvetica, sans-serif; font-size: 13.2px;">1st Floor, E-58,Sector 3,&nbsp;Noida</span></p>
+<ul class="contact-list">
+<li class="phone"><strong>Hot line:&nbsp;</strong>+91-87439 13121</li>
+<li class="email"><strong>Email:<script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy84908 = 'th&#101;t&#101;st&#105;ngw&#111;rld' + '&#64;';
+ addy84908 = addy84908 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy84908 + '\'>');
+ document.write(addy84908);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>This email address is being protected from spambots. You need JavaScript enabled to view it.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script></strong></li>
+</ul></div>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 33.3%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod93">
+						<h3><span>Connect with us</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+
+<div class="custom"  >
+	<div>We're on Social Networks. Follow us &amp; get in touch.</div>
+<ul class="social-list">
+<ul class="social-list">
+<li class="twitter"><a href="https://twitter.com/world_testing/" title="Twitter">Twitter</a></li>
+<li class="facebook"><a href="https://www.facebook.com/testingworldindia/" title="Facebook">Facebook</a></li>
+<li class="google-plus"><a href="../course/performance-testing-tools/basic-to-advanced-jmeter-beanshell/" title="Google plus">Google plus</a></li>
+<li class="ln"><a href="https://www.linkedin.com/company-beta/13290229/" title="linkedin">linkedin</a></li>
+<li class="ytb"><a href="#" title="ytb">ytb</a></li>
+<li class="Skype"><a href="skype:testingworld2014" title="Skype : testingworld2014">Skype</a></li>
+<li class="WhatsApp"><a href="https://web.whatsapp.com/send?text=http://thetestingworld.com" target="blank" title="WhatsApp">WhatsApp</a></li>
+</ul></div>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl1 .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-botsl2"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <!-- SPOTLIGHT -->
+<div class="ja-box column ja-box-left" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod95">
+						<h3><span>Quick links</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-468"><a href="/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=468" >About us</a></li><li class="item-470"><a href="/index.php?option=com_content&amp;view=article&amp;id=282&amp;Itemid=470" >Latest News</a></li><li class="item-469"><a href="/index.php?option=com_content&amp;view=article&amp;id=197&amp;Itemid=469" >Who we are</a></li><li class="item-471"><a href="/index.php?option=com_content&amp;view=article&amp;id=196&amp;Itemid=471" >Our Features</a></li><li class="item-472"><a href="/index.php?option=com_content&amp;view=article&amp;id=200&amp;Itemid=472" >My Learning</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod96">
+						<h3><span>PRACTIC PLATFORM</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-437"><a href="/index.php?option=com_content&amp;view=article&amp;id=185&amp;Itemid=437" >Selenium Testing Practice </a></li><li class="item-280"><a href="/index.php?option=com_content&amp;view=article&amp;id=186&amp;Itemid=280" >Performance Testing Practice</a></li><li class="item-278"><a href="/index.php?option=com_content&amp;view=article&amp;id=187&amp;Itemid=278" >Rest API Testing Practice </a></li><li class="item-279"><a href="/index.php?option=com_content&amp;view=article&amp;id=188&amp;Itemid=279" >Mobile App Testing Practice</a></li><li class="item-276"><a href="/index.php?option=com_content&amp;view=article&amp;id=189&amp;Itemid=276" >Security Testing Practice </a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-center" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod106">
+						<h3><span>POPULAR COURSES</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-475"><a href="/index.php?option=com_content&amp;view=article&amp;id=150&amp;Itemid=475" >Selenium Testing</a></li><li class="item-476"><a href="/index.php?option=com_content&amp;view=article&amp;id=87&amp;Itemid=476" >Performance Testing</a></li><li class="item-477"><a href="/index.php?option=com_content&amp;view=article&amp;id=190&amp;Itemid=477" >Rest API Testing </a></li><li class="item-478"><a href="/index.php?option=com_content&amp;view=article&amp;id=191&amp;Itemid=478" >Mobile App Testing </a></li><li class="item-479"><a href="/index.php?option=com_content&amp;view=article&amp;id=192&amp;Itemid=479" >QTP/UFT Automation Testing</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<div class="ja-box column ja-box-right" style="width: 25%;">
+    	<div class="ja-moduletable moduletable  clearfix" id="Mod107">
+						<h3><span>TESTING WORLD SUPPORT</span></h3>
+				<div class="ja-box-ct clearfix">
+		
+<ul class="menu">
+<li class="item-480"><a href="/index.php?option=com_content&amp;view=article&amp;id=193&amp;Itemid=480" >Workshop &amp; Live Project</a></li><li class="item-481"><a href="/index.php?option=com_content&amp;view=article&amp;id=198&amp;Itemid=481" >Training Certificate</a></li><li class="item-482"><a href="/index.php?option=com_content&amp;view=article&amp;id=194&amp;Itemid=482" >Upcoming Job Drives</a></li><li class="item-483"><a href="/index.php?option=com_content&amp;view=article&amp;id=195&amp;Itemid=483" >Internship Project</a></li><li class="item-484"><a href="/index.php?option=com_content&amp;view=article&amp;id=199&amp;Itemid=484" >Online Training Courses</a></li></ul>
+		</div>
+    </div>
+	
+</div>
+<!-- SPOTLIGHT -->
+
+<script type="text/javascript">
+    window.addEvent('load', function (){ equalHeight ('#ja-botsl2 .ja-box') });
+</script>            </div>
+                        </div>
+                        <div id="ja-navhelper"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-breadcrums">
+    <div class="ja-footnav">
+    
+<ul class="menu">
+<li class="item-609"><a href="/index.php?option=com_users&amp;view=registration&amp;Itemid=609" >Training Request</a></li><li class="item-610"><a href="/index.php?option=com_content&amp;view=article&amp;id=235&amp;Itemid=610" >Reviews</a></li><li class="item-611"><a href="/index.php?option=com_content&amp;view=article&amp;id=325&amp;Itemid=611" >Events</a></li><li class="item-612"><a href="/index.php?option=com_content&amp;view=article&amp;id=210&amp;Itemid=612" >Testimonials</a></li><li class="item-613"><a href="/index.php?option=com_content&amp;view=article&amp;id=236&amp;Itemid=613" >Listed College</a></li><li class="item-614"><a href="/index.php?option=com_content&amp;view=article&amp;id=237&amp;Itemid=614" >Careers</a></li><li class="item-615"><a href="/index.php?option=com_content&amp;view=article&amp;id=223&amp;Itemid=615" >Clients</a></li><li class="item-616"><a href="/index.php?option=com_content&amp;view=article&amp;id=202&amp;Itemid=616" >Declaration</a></li><li class="item-617"><a href="/index.php?option=com_content&amp;view=article&amp;id=203&amp;Itemid=617" >Privacy Policy</a></li><li class="item-618"><a href="/index.php?option=com_content&amp;view=article&amp;id=204&amp;Itemid=618" >Terms &amp; Conditions</a></li><li class="item-619"><a href="/index.php?option=com_content&amp;view=article&amp;id=221&amp;Itemid=619" >FAQ</a></li><li class="item-620"><a href="/index.php?option=com_content&amp;view=article&amp;id=222&amp;Itemid=620" >Valued Partners</a></li></ul>
+
+</div>
+    
+</div>            </div>
+                        </div>
+                        <div id="ja-footer"
+            	class="wrap ">
+                   <div class="main clearfix">
+           <div class="ja-copyright">
+         Copyright &copy; 2022 thetestingworld. All Rights Reserved.
+</div>
+
+
+
+
+      <!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5a3c1db9f4461b0b4ef8a18c/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->            </div>
+                        </div>
+            
+
+
+</div>
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>
