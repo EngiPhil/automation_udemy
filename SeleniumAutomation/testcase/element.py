@@ -20,3 +20,4 @@ class BasePageElement(object):
         )
         element = driver.find_element(By.NAME, self.locator).clear()
         return element.get_attribute("value")
+
