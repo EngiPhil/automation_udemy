@@ -1,5 +1,15 @@
-from locator import *
-from element import BasePageElement
+from SeleniumAutomation.BimPoint.src.utility.element import BasePageElement
+
+
+from selenium.webdriver.common.by import By
+
+
+class MainPageLocators(object):
+    GO_BUTTON = (By.ID, "submit")
+
+
+class SearchResultPageLocators(object):
+    pass
 
 
 class SearchTextElement(BasePageElement):
@@ -9,7 +19,7 @@ class SearchTextElement(BasePageElement):
 class GoButtonElement(BasePageElement):
     locator = "go"
 
-    
+
 class BasePage(object):
     def __init__(self, driver):
         self.driver = driver

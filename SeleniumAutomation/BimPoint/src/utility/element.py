@@ -20,10 +20,3 @@ class BasePageElement(object):
         )
         element = driver.find_element(By.NAME, self.locator).clear()
         return element.get_attribute("value")
-
-    def click(self, obj):
-        driver = obj.driver
-        WebDriverWait(driver, 100).until(
-            lambda driver: driver.find_element(By.NAME, self.locator)
-        )
-        driver.find_element(By.NAME, self.locator).click()
