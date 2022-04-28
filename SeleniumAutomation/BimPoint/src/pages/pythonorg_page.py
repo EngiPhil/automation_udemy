@@ -1,4 +1,4 @@
-from SeleniumAutomation.BimPoint.src.pages.pythonorg_locators import MainPageLocators
+from SeleniumAutomation.BimPoint.src.pages.locators import MainPageLocators
 from SeleniumAutomation.BimPoint.src.pages.element import BasePageElement
 
 
