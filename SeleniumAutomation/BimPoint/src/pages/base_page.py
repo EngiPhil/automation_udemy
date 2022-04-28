@@ -1,4 +1,4 @@
-from SeleniumAutomation.BimPoint.src.utility.element import BasePageElement
+from SeleniumAutomation.BimPoint.src.utility.actions import BasePageElement
 
 
 from selenium.webdriver.common.by import By

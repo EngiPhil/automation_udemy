@@ -1,8 +1,8 @@
-import SeleniumAutomation.BimPoint.src.utility.drivers as drivers
+from SeleniumAutomation.BimPoint.src.utility.drivers import driver_manager as driverManager
 #import pytest
 import time
 
-chrome = drivers.driver_manager(browser='chrome').getWebDriver()
+chrome = driverManager(browser='chrome').getWebDriver()
 print(chrome)
 
 chrome.get("http://www.python.org")
