@@ -2,9 +2,6 @@ import unittest
 from selenium import webdriver
 import page
 
-# Implement new driver approach with Service https://github.com/SeleniumHQ/seleniumhq.github.io/blob/dev/examples/python/tests/getting_started/test_install_drivers.py
-# https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
-# driver_path = r"SeleniumAutomation/drivers/chromedriver_100-0-4896.exe"
 driver_path = r"C:\Users\FilipV\Filip\PyCharm\Automation1\SeleniumAutomation\drivers\chromedriver_100-0-4896.exe"
 
 

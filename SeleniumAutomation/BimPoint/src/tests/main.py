@@ -1,6 +1,6 @@
 import unittest
 from selenium import webdriver
-import SeleniumAutomation.BimPoint.src.pages.base_page as page
+import SeleniumAutomation.BimPoint.src.pages.pythonorg_page as page
 
 driver_path = r"C:\Users\FilipV\Filip\PyCharm\Automation1\SeleniumAutomation\drivers\chromedriver_100-0-4896.exe"
 

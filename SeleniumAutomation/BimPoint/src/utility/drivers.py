@@ -11,7 +11,12 @@ from selenium.webdriver.edge.options import Options as EdgeOptions
 
 
 class driver_manager():
-    def __init__(self, browser):
+    """
+    Class for creating a webdriver instance
+    :arg
+    -browser - specify web-browser; chrome choosen as default
+    """
+    def __init__(self, browser="chrome"):
         self.browser = browser
 
     def getWebDriver(self):
