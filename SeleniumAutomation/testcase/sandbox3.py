@@ -3,7 +3,7 @@ from traceback import print_stack
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import *
-import SeleniumAutomation.BimPoint.src.utility.custom_logger as cl
+import SeleniumAutomation.BimPoint.src.utility.log as cl
 import logging
 import time
 import os

@@ -21,7 +21,7 @@ class MainPage(BasePage):
     """Home page action methods come here. I.e. Python.org"""
 
     #Declares a variable that will contain the retrieved text
-    search_text_element = SearchTextElement()
+    search_text_element = SearchTextElement(MainPageLocators.SEARCH_TEXT)
 
     def is_title_matches(self):
         """Verifies that the hardcoded text "Python" appears in page title"""
