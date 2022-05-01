@@ -4,7 +4,9 @@ from SeleniumAutomation.BimPoint.src.pages import pythonorg_page as page
 
 
 class PythonOrgSearch(unittest.TestCase):
-
+    """
+    This is a test to test basic methods and classes like driver_manager and pages
+    """
     # classmeethod?
     def setUp(self):
         print('setup')

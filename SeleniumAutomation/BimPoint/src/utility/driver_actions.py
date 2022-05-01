@@ -67,3 +67,7 @@ class SeleniumDriver(object):
             self.logger_obj.info("Cannot send data on the element with locatorType: " + locator[0].upper() +
                                  " locatorType: " + locator[1])
             print_stack()
+
+    def close(self):
+        """To close the driver"""
+        self.driver.close()

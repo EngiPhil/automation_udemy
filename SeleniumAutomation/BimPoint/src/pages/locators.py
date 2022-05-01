@@ -2,15 +2,14 @@ from selenium.webdriver.common.by import By
 
 
 class MainPageLocators(object):
-    """A class for main page locators. All main page locators should come here"""
+    """A class for http://www.python.org page locators. For testing utilities."""
 
     GO_BUTTON = (By.ID, 'submit')
     SEARCH_TEXT = (By.NAME, 'q')
 
 
 class SearchResultsPageLocators(object):
-    """A class for search results locators. All search results locators should
-    come here"""
+    """A class for https://www.python.org/search/?q=search&submit= page locators. For testing utilities."""
 
     pass
 
