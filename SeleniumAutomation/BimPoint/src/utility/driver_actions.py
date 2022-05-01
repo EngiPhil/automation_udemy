@@ -7,6 +7,12 @@ from traceback import print_stack
 class SeleniumDriver(object):
 
     def __init__(self, driver, log_file_name='selenium_log', log_file_dir=''):
+        """
+        A Class with driver actions for handling the pages.
+        :param driver: using selenium webdriver; using a Class webdriver_manager
+        :param log_file_name: name for logfile without suffix; suffix = .log
+        :param log_file_dir: full pathfile, where to save the logfile; default_path = c:/logs_dir/.log
+        """
         self.driver = driver
         # log file name and directory which we want to keep
         self.log_file_name = log_file_name
@@ -53,8 +59,8 @@ class SeleniumDriver(object):
         """
         Send keys to an element -> MODIFIED
         :param data: text to be send into the textfield
-        :param locator:
-        :param element:
+        :param locator: 1st argument provides locator type and 2nd locator name e.g. (By.ID, 'submit')
+        :param element: by default None
         :return: None
         """
         try:
@@ -68,6 +74,7 @@ class SeleniumDriver(object):
                                  " locatorType: " + locator[1])
             print_stack()
 
+    @log_decorator.log_decorator()
     def close(self):
         """To close the driver"""
         self.driver.close()

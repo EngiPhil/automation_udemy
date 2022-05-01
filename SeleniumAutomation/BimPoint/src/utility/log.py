@@ -19,7 +19,7 @@ class CustomFormatter(logging.Formatter):
 def get_logger(log_file_name, log_sub_dir=""):
     """ Creates a Log File and returns Logger object """
 
-    windows_log_dir = 'c:\\logs_dir\\'
+    windows_log_dir = r'c:/logs_dir/'
     linux_log_dir = '/logs_dir/'
 
     # Build Log file directory, based on the OS and supplied input

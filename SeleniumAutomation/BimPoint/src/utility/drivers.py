@@ -10,12 +10,12 @@ from webdriver_manager.microsoft import EdgeChromiumDriverManager
 from selenium.webdriver.edge.options import Options as EdgeOptions
 
 
-class driver_manager():
+class driver_manager(object):
     """
-    Class for creating a webdriver instance
-    :arg
-    -browser - specify web-browser; chrome choosen as default
+    Class for creating a webdriver instance. This is a basic class for Selenium testing used mainly by driver_actions
+    :param browser - specify web-browser; chrome chosen as default
     """
+
     def __init__(self, browser="chrome"):
         self.browser = browser
 

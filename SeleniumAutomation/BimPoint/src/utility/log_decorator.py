@@ -2,7 +2,8 @@ import sys, os, functools
 from inspect import getframeinfo, stack
 from SeleniumAutomation.BimPoint.src.utility import log
 
-#https://medium.com/swlh/add-log-decorators-to-your-python-project-84094f832181
+
+# https://medium.com/swlh/add-log-decorators-to-your-python-project-84094f832181
 
 def log_decorator(_func=None):
     def log_decorator_info(func):
@@ -27,8 +28,8 @@ def log_decorator(_func=None):
             - In order to get actual function and file name we will use 'extra' parameter.
             - To get the file name we are using in-built module inspect.getframeinfo which returns calling file name """
             py_file_caller = getframeinfo(stack()[1][0])
-            extra_args = { 'func_name_override': func.__name__,
-                           'file_name_override': os.path.basename(py_file_caller.filename) }
+            extra_args = {'func_name_override': func.__name__,
+                          'file_name_override': os.path.basename(py_file_caller.filename)}
 
             """ Before to the function execution, log function details."""
             logger_obj.info(f"Arguments: {formatted_arguments} - Begin function", extra=extra_args)
@@ -36,14 +37,17 @@ def log_decorator(_func=None):
                 """ log return value from the function """
                 value = func(self, *args, **kwargs)
                 logger_obj.info(f"Returned: - End function {value!r}")
+
             except:
                 """log exception if occurs in function"""
                 logger_obj.error(f"Exception: {str(sys.exc_info()[1])}")
                 raise
             # Return function value
             return value
+
         # Return the pointer to the function
         return log_decorator_wrapper
+
     # Decorator was called with arguments, so return a decorator function that can read and return a function
     if _func is None:
         return log_decorator_info
