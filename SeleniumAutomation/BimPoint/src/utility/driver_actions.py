@@ -2,6 +2,7 @@ from SeleniumAutomation.BimPoint.src.utility import log_decorator
 from SeleniumAutomation.BimPoint.src.utility import log
 from selenium.webdriver.support.ui import WebDriverWait
 from traceback import print_stack
+from selenium.webdriver.common.by import By
 
 
 class SeleniumDriver(object):
@@ -60,7 +61,7 @@ class SeleniumDriver(object):
         Send keys to an element -> MODIFIED
         :param data: text to be send into the textfield
         :param locator: 1st argument provides locator type and 2nd locator name e.g. (By.ID, 'submit')
-        :param element: by default None
+        :param element: can be provided instead of locator, by default None
         :return: None
         """
         try:
@@ -72,6 +73,21 @@ class SeleniumDriver(object):
         except:
             self.logger_obj.info("Cannot send data on the element with locatorType: " + locator[0].upper() +
                                  " locatorType: " + locator[1])
+            print_stack()
+
+    @log_decorator.log_decorator()
+    def clickElement(self, locator):
+        """
+        Clicks on element by given locator
+        :param locator: 1st argument provides locator type and 2nd locator name e.g. (By.ID, 'submit')
+        :return:
+        """
+        try:
+            if locator:
+                element = self.getElement(locator)
+            element.click()
+        except:
+            raise
             print_stack()
 
     @log_decorator.log_decorator()
