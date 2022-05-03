@@ -76,10 +76,11 @@ class SeleniumDriver(object):
             print_stack()
 
     @log_decorator.log_decorator()
-    def clickElement(self, locator):
+    def clickElement(self, locator=False, element=None):
         """
         Clicks on element by given locator
         :param locator: 1st argument provides locator type and 2nd locator name e.g. (By.ID, 'submit')
+        :param element: can be provided instead of locator, by default None
         :return:
         """
         try:
@@ -87,7 +88,7 @@ class SeleniumDriver(object):
                 element = self.getElement(locator)
             element.click()
         except:
-            raise
+            #raise
             print_stack()
 
     @log_decorator.log_decorator()
